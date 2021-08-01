@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795895232414",
+    "project_id": "marketplace-534bd",
+    "storage_bucket": "marketplace-534bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795895232414:android:e2691110abb7b581df088f",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_admin_tut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795895232414-55bo0vf2vs8bgje987tg73des2022tgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiYQ3AFJzsqt-7o1pnJe6WVqzpw22Av6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795895232414-55bo0vf2vs8bgje987tg73des2022tgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
