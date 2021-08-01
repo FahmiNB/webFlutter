@@ -25,4 +25,8 @@ Pemograman web perangkat bergerak
 10. Tidak ada error
 
 ![ss1](Screenshot_2.jpg)
+![ss3](Screenshot_3.jpg)
+![ss4](Screenshot_4.jpg)
+![ss5](Screenshot_5.jpg)
+![ss6](Screenshot_6.jpg)
 ![ss2](Screenshot_1.jpg)
