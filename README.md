@@ -1,16 +1,25 @@
 # ecommerce_admin_tut
 
-A new Flutter project.
+Pemograman web perangkat bergerak
 
-## Getting Started
+## Sudah terdapat
 
-This project is a starting point for a Flutter application.
+1. Wiget
 
-A few resources to get you started if this is your first Flutter project:
+2. Terdapat asset
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3. konfigurasi pubspec.yaml
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Layout
+
+5. UI mudah di pahami
+
+6. Link yang berfungsi
+
+7. Koneksi database
+
+8. Query benar
+
+9. Website responsif
+
+10. Tidak ada error
