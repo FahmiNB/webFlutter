@@ -23,3 +23,6 @@ Pemograman web perangkat bergerak
 9. Website responsif
 
 10. Tidak ada error
+
+![ss1](Screenshot_2.jpg)
+![ss2](Screenshot_1.jpg)
